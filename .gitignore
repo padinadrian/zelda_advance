@@ -1,0 +1,9 @@
+# Binary files
+*.gba*
+*.elf*
+*.out
+*.bin
+*.sav
+
+# Images
+*.bmp
